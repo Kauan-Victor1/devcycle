@@ -8,7 +8,7 @@
 
 O **DevCycle** é uma aplicação web focada inteiramente no ecossistema Front-end. O projeto foi construído com uma forte ênfase em organização de código, escalabilidade de estilos e, principalmente, na experiência do usuário (UX). Através da união de layouts responsivos e animações fluidas, o projeto demonstra boas práticas modernas de estruturação de interfaces web.
 
-🌐 **Projeto em Produção:** [https://devcycle.lucaszdev.me](https://devcycle.lucaszdev.me)  
+🌐 **Projeto em Produção:** [https://devcycle.kauandev.me]((https://devcycle.kauandev.me/))  
 
 ---
 
